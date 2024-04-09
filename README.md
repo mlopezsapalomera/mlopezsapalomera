@@ -18,17 +18,14 @@ I consider myself a proactive person when it comes to working both individually 
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=mlopezsapalomera
-&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=mlopezsapalomera&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mlopezsapalomera
-&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlopezsapalomera
-&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mlopezsapalomera&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlopezsapalomera&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 
 ---
@@ -42,6 +39,5 @@ I consider myself a proactive person when it comes to working both individually 
 ---
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mlopezsapalomera
-&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=mlopezsapalomera&style=for-the-badge&color=orange" alt=""/>
 </div>
