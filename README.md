@@ -3,7 +3,7 @@
 ## 🙋‍♂️ Sobre mi
 Em considero una persona proactiva a l'hora de treballar tant individualment com en grup. Sóc fàcil de comunicar-me amb els meus socis del projecte per tal de tirar endavant el projecte. Sóc un aprenent actiu i tinc una corba d'aprenentatge ràpida. Puc ser indispensable en qualsevol feina gràcies a les meves habilitats bàsiques com el treball en equip i la dedicació, a més dels meus coneixements informàtics com veureu marcats al meu perfil.
 
-## 💻 Habilitats informàtiques
+## 💻 Habilitats Tecniques
 | Llengua | Nivell | Horaris Dedicats |
 |----------|----------|----------|
 | HTML | High | 99+
@@ -18,6 +18,10 @@ Em considero una persona proactiva a l'hora de treballar tant individualment com
 | Catalan  | Native |
 | English  | Certificate B1 |
 | Italian  | Learning |
+
+
+## Repositoris
+
 
 ## 📊 Estadístiques de Github
 <table cellpadding="0" cellspacing="0" border="0">
@@ -36,17 +40,3 @@ Em considero una persona proactiva a l'hora de treballar tant individualment com
 </a></td> 
   </tr>
 </table>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mlopezsapalomera&style=for-the-badge&color=yellow" alt=""/>
-</div>
