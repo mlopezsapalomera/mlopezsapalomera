@@ -4,35 +4,41 @@ Em considero una persona proactiva a l'hora de treballar tant individualment com
 ## 🗣️ Habilitats lingüístiques
 | Llengua | Nivell |
 |----------|--------|
-| Spanish  | Native |
-| Catalan  | Native |
-| English  | Certificate B1 |
-| Italian  | Learning |
+| Spanish  | Natiu |
+| Catalan  | Natiu |
+| English  | Certificat B1 |
+| Italian  | Aprenent |
 
 
 ## 💻 Habilitats Tecniques
 | Llengua | Nivell | Horaris Dedicats |
 |----------|----------|----------|
-| HTML | High | 99+ |
-| CSS | High | 99+ |
-| JAVA | Medium | 60h |
-| JavaScript | Low | 33h |
+| HTML | Alt | +99h |
+| CSS | Alt | +99h |
+| JAVA | Mitg | +60h |
+| MySQL | Mitg | +60h |
+| XML | Baix | +30h |
+| DTD | Baix | +30h |
+| JavaScript | Baix | +30h |
 
-## Programming Languages
+
+## Llenguatges de Programció
 <p algin="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
-## Database
+
+
+## Base de dades
 <p algin="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   </a>
 </p>
   
 
-## Frontend Development
+## Desenvolupament Fronted
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> </a>
@@ -40,7 +46,7 @@ Em considero una persona proactiva a l'hora de treballar tant individualment com
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> </a> 
 </p>
 
-## Other
+## Altres
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> </a>
