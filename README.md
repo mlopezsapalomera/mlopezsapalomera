@@ -1,5 +1,3 @@
-# Marcos Lopez Medina
-
 ## 🙋‍♂️ Sobre mi
 Em considero una persona proactiva a l'hora de treballar tant individualment com en grup. Sóc fàcil de comunicar-me amb els meus socis del projecte per tal de tirar endavant el projecte. Sóc un aprenent actiu i tinc una corba d'aprenentatge ràpida. Puc ser indispensable en qualsevol feina gràcies a les meves habilitats bàsiques com el treball en equip i la dedicació, a més dels meus coneixements informàtics com veureu marcats al meu perfil.
 
